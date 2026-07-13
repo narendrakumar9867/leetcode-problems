@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
