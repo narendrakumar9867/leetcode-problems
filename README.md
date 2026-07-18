@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0200-number-of-islands) |
+| [0436-find-right-interval](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0436-find-right-interval) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0436-find-right-interval](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0436-find-right-interval) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/narendrakumar9867/leetcode-problems/tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->
